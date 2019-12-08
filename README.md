@@ -1,3 +1,6 @@
+env.shを参考にしてpython環境を整えてください
+僕の場合は、pyenvを使っています
+
 ```
 $ docker build ./ -t stacking
 $ docker images
