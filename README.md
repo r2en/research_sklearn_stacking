@@ -1,5 +1,8 @@
-env.shを参考にしてpython環境を整えてください
-僕の場合は、pyenvを使っています
+```
+$ pip install pipenv
+$ pipenv --python 3.7
+$ pipenv shell
+```
 
 ```
 $ docker build ./ -t stacking
