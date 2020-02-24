@@ -1,7 +1,7 @@
 appnope==0.1.0
 attrs==19.3.0
 backcall==0.1.0
-bleach==3.1.0
+bleach==3.1.1
 decorator==4.4.1
 defusedxml==0.6.0
 entrypoints==0.3
@@ -57,7 +57,7 @@ zipp==0.6.0
 appnope==0.1.0
 attrs==19.3.0
 backcall==0.1.0
-bleach==3.1.0
+bleach==3.1.1
 decorator==4.4.1
 defusedxml==0.6.0
 entrypoints==0.3
@@ -114,7 +114,7 @@ zipp==0.6.0
 appnope==0.1.0
 attrs==19.3.0
 backcall==0.1.0
-bleach==3.1.0
+bleach==3.1.1
 decorator==4.4.1
 defusedxml==0.6.0
 entrypoints==0.3
@@ -167,7 +167,7 @@ appnope==0.1.0
 astor==0.8.0
 attrs==19.3.0
 backcall==0.1.0
-bleach==3.1.0
+bleach==3.1.1
 cachetools==3.1.1
 certifi==2019.11.28
 chardet==3.0.4
