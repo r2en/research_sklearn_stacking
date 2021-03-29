@@ -35,7 +35,7 @@ prometheus-client==0.7.1
 prompt-toolkit==3.0.2
 ptyprocess==0.6.0
 pycurl==7.43.0
-Pygments==2.5.2
+Pygments==2.7.4
 pygobject==3.20.0
 pyrsistent==0.15.6
 python-apt==1.1.0b1+ubuntu0.16.4.5
@@ -92,7 +92,7 @@ prometheus-client==0.7.1
 prompt-toolkit==3.0.2
 ptyprocess==0.6.0
 pycurl==7.43.0
-Pygments==2.5.2
+Pygments==2.7.4
 pygobject==3.20.0
 pyrsistent==0.15.6
 python-apt==1.1.0b1+ubuntu0.16.4.5
@@ -146,7 +146,7 @@ pickleshare==0.7.5
 prometheus-client==0.7.1
 prompt-toolkit==3.0.2
 ptyprocess==0.6.0
-Pygments==2.5.2
+Pygments==2.7.4
 pyrsistent==0.15.6
 python-dateutil==2.8.1
 pytz==2019.3
@@ -218,7 +218,7 @@ protobuf==3.11.1
 ptyprocess==0.6.0
 pyasn1==0.4.8
 pyasn1-modules==0.2.7
-Pygments==2.5.2
+Pygments==2.7.4
 pyrsistent==0.15.6
 python-dateutil==2.8.1
 pytz==2019.3
