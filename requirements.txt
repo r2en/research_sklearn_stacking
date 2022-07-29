@@ -20,7 +20,7 @@ jupyterlab==1.2.3
 jupyterlab-server==1.0.6
 lightgbm==2.3.1
 MarkupSafe==1.1.1
-mistune==0.8.4
+mistune==2.0.3
 more-itertools==8.0.0
 nbconvert==5.6.1
 nbformat==4.4.0
@@ -77,7 +77,7 @@ jupyterlab==1.2.3
 jupyterlab-server==1.0.6
 lightgbm==2.3.1
 MarkupSafe==1.1.1
-mistune==0.8.4
+mistune==2.0.3
 more-itertools==8.0.0
 nbconvert==5.6.1
 nbformat==4.4.0
@@ -132,7 +132,7 @@ jupyter-core==4.6.1
 jupyterlab==1.2.3
 jupyterlab-server==1.0.6
 MarkupSafe==1.1.1
-mistune==0.8.4
+mistune==2.0.3
 more-itertools==8.0.0
 nbconvert==5.6.1
 nbformat==4.4.0
@@ -199,7 +199,7 @@ Keras-Applications==1.0.8
 Keras-Preprocessing==1.1.0
 Markdown==3.1.1
 MarkupSafe==1.1.1
-mistune==0.8.4
+mistune==2.0.3
 more-itertools==8.0.0
 nbconvert==5.6.1
 nbformat==4.4.0
